@@ -1,0 +1,15 @@
+body{
+    background: black;
+}
+
+#txt{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    color: #17d4fe;
+    letter-spacing: 7px;
+    font-size: 10em;
+}
